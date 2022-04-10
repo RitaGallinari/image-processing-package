@@ -1,0 +1,3 @@
+Acessar a raiz do projeto
+Comandos de instalação
+Comando para criar a distribuição
